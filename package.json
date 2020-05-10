@@ -1,6 +1,7 @@
 {
   "name": "bazoilfriends",
-  "homepage": "https://github.com/alexlefk/bazoilfriends",
+  "homepage": "https://alexlefk.github.io/bazoilfriends",
+
   "version": "0.1.0",
   "private": true,
   "dependencies": {
