@@ -3,19 +3,20 @@ import CardList from "../components/CardList";
 import SearchBox from "../components/Searchbox";
 import Scroll from "../components/Scroll";
 import "./app.css";
+import robots from "../robots";
 import ErroBoundry from "../components/ErrorBoundry";
 
 class App extends Component {
   constructor() {
     super();
     this.state = {
-      robots: [],
+      robots: robots,
       searchfield: "",
     };
   }
 
   componentDidMount() {
-    fetch("https://jsonplaceholder.typicode.com/users")
+    fetch({ robots })
       .then((response) => response.json())
       .then((users) =>
         this.setState({
@@ -38,17 +39,17 @@ class App extends Component {
 
     return !robots.length ? (
       <div className="tc">
-        <h1> Loading </h1>;
+        <h1> Loading </h1>;{" "}
       </div>
     ) : (
       <div className="tc">
-        <h1 className="f2"> Bazoil Friends </h1>
-        <SearchBox searchChange={this.onSearchChange} />
+        <h1 className="f2"> Bazoil Friends </h1>{" "}
+        <SearchBox searchChange={this.onSearchChange} />{" "}
         <Scroll>
           <ErroBoundry>
-            <CardList robots={filteredRobots} />
-          </ErroBoundry>
-        </Scroll>
+            <CardList robots={filteredRobots} />{" "}
+          </ErroBoundry>{" "}
+        </Scroll>{" "}
       </div>
     );
   }

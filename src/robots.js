@@ -1,61 +1,63 @@
 export const robots = [{
     id: 1,
-    name: 'Leanne Graham',
-    username: 'Bret',
+    name: 'Doctor strange love',
+    username: 'Doctor',
     email: 'Sincere@april.biz'
   },
   {
     id: 2,
-    name: 'Ervin Howell',
-    username: 'Antonette',
+    name: 'Μελλοντικός δήμαρχος ΠΡΩΤΟΙ ΕΔΩ',
+    username: 'olderTsourou',
     email: 'Shanna@melissa.tv'
   },
   {
     id: 3,
-    name: 'Clementine Bauch',
-    username: 'Samantha',
+    name: 'Κάνω δύο δουλειές για να βγω',
+    username: 'baz',
     email: 'Nathan@yesenia.net'
   },
   {
     id: 4,
-    name: 'Patricia Lebsack',
-    username: 'Karianne',
+    name: 'παστιτσιο',
+    username: 'louk',
     email: 'Julianne.OConner@kory.org'
   },
   {
     id: 5,
-    name: 'Chelsey Dietrich',
-    username: 'Kamren',
+    name: 'mummra',
+    username: 'teo',
     email: 'Lucio_Hettinger@annie.ca'
   },
   {
     id: 6,
-    name: 'Mrs. Dennis Schulist',
+    name: 'Ιπτάμενος Ολλανδός',
     username: 'Leopoldo_Corkery',
     email: 'Karley_Dach@jasper.info'
   },
   {
     id: 7,
-    name: 'Kurtis Weissnat',
-    username: 'Elwyn.Skiles',
+    name: 'Σκληρά Εργαζόμενη',
+    username: 'alexnik',
     email: 'Telly.Hoeger@billy.biz'
   },
   {
     id: 8,
-    name: 'Nicholas Runolfsdottir V',
-    username: 'Maxime_Nienow',
+    name: 'alexlefk',
+    username: 'alexlefk',
     email: 'Sherwood@rosamond.me'
   },
   {
     id: 9,
-    name: 'Glenna Reichert',
-    username: 'Delphine',
+    name: 'Γιαννιώτης(Χρυσός στις καρδιές μας)',
+    username: 'youngtsourou',
     email: 'Chaim_McDermott@dana.io'
   },
   {
     id: 10,
-    name: 'Clementina DuBuque',
-    username: 'Moriah.Stanton',
+    name: 'I do not have any other friends',
+    username: 'nofriends',
     email: 'Rey.Padberg@karina.biz'
   }
 ];
+
+export default robots;
