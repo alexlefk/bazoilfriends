@@ -42,7 +42,7 @@ export const robots = [{
   },
   {
     id: 8,
-    name: 'alexlefk',
+    name: 'Αχινός',
     username: 'alexlefk',
     email: 'Sherwood@rosamond.me'
   },
