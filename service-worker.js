@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/bazoilfriends/precache-manifest.c4da8755d754eeeb54d10ebf413be78a.js"
+  "/bazoilfriends/precache-manifest.f807d5eb7658feb3f4c31a432b4ed0c6.js"
 );
 
 self.addEventListener('message', (event) => {

@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "7793d46b0d48c4241024c62c291ab735",
+    "revision": "6fe503d9fa1d016b7a3e5dbf67834d93",
     "url": "/bazoilfriends/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bazoilfriends/static/css/2.3c03f26f.chunk.css"
   },
   {
-    "revision": "0d18d2140c621564e308",
+    "revision": "ce3a6ebcf0a7998260de",
     "url": "/bazoilfriends/static/css/main.1fd730ff.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/bazoilfriends/static/js/2.a00e52e5.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "0d18d2140c621564e308",
-    "url": "/bazoilfriends/static/js/main.e549178d.chunk.js"
+    "revision": "ce3a6ebcf0a7998260de",
+    "url": "/bazoilfriends/static/js/main.76d01cf0.chunk.js"
   },
   {
     "revision": "af97448559a42cb4bd14",

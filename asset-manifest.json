@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/bazoilfriends/static/css/main.1fd730ff.chunk.css",
-    "main.js": "/bazoilfriends/static/js/main.e549178d.chunk.js",
-    "main.js.map": "/bazoilfriends/static/js/main.e549178d.chunk.js.map",
+    "main.js": "/bazoilfriends/static/js/main.76d01cf0.chunk.js",
+    "main.js.map": "/bazoilfriends/static/js/main.76d01cf0.chunk.js.map",
     "runtime-main.js": "/bazoilfriends/static/js/runtime-main.85305f8b.js",
     "runtime-main.js.map": "/bazoilfriends/static/js/runtime-main.85305f8b.js.map",
     "static/css/2.3c03f26f.chunk.css": "/bazoilfriends/static/css/2.3c03f26f.chunk.css",
     "static/js/2.a00e52e5.chunk.js": "/bazoilfriends/static/js/2.a00e52e5.chunk.js",
     "static/js/2.a00e52e5.chunk.js.map": "/bazoilfriends/static/js/2.a00e52e5.chunk.js.map",
     "index.html": "/bazoilfriends/index.html",
-    "precache-manifest.c4da8755d754eeeb54d10ebf413be78a.js": "/bazoilfriends/precache-manifest.c4da8755d754eeeb54d10ebf413be78a.js",
+    "precache-manifest.f807d5eb7658feb3f4c31a432b4ed0c6.js": "/bazoilfriends/precache-manifest.f807d5eb7658feb3f4c31a432b4ed0c6.js",
     "service-worker.js": "/bazoilfriends/service-worker.js",
     "static/css/2.3c03f26f.chunk.css.map": "/bazoilfriends/static/css/2.3c03f26f.chunk.css.map",
     "static/css/main.1fd730ff.chunk.css.map": "/bazoilfriends/static/css/main.1fd730ff.chunk.css.map",
@@ -21,6 +21,6 @@
     "static/css/2.3c03f26f.chunk.css",
     "static/js/2.a00e52e5.chunk.js",
     "static/css/main.1fd730ff.chunk.css",
-    "static/js/main.e549178d.chunk.js"
+    "static/js/main.76d01cf0.chunk.js"
   ]
 }
